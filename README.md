@@ -67,3 +67,7 @@ Python 3.x
 NumPy
 Matplotlib
 PriorityQueue / heapq
+
+
+
+![Path_finding](https://github.com/Bhumika0608/A-Star-Hiking-Trail-Navigator/blob/main/UI_Hiking.png)
