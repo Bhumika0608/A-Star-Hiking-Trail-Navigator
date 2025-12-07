@@ -64,8 +64,11 @@ These experiments show that A* dynamically adapts routing based on user preferen
 ## Requirements
 ---
 Python 3.x
+
 NumPy
+
 Matplotlib
+
 PriorityQueue / heapq
 
 
